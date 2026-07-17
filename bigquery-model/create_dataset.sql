@@ -1,0 +1,1 @@
+CREATE SCHEMA ecomerce_dataset OPTIONS(location="us");
